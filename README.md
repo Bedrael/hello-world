@@ -9,4 +9,4 @@ Lorsque j'ai commencé à travailler, au sein de l'Administration française, j'
 
 En septembre 2010, je suis passé du côté obscur du management. J'ai commencé avec la prise en charge d'une équipe dédiée aux tests d'exploitabilité sur des applications n-tiers, en J2E, et Webservices. Et, depuis septembre 2013, je suis responsable des équipes en charge des applications du Cadastre.
 
-Actuellement, dans le peu de temps libre que le travail et la famille me laissent, je pratique la guitare électrique, je compose de la musique et je me remets doucement à la programmation avec l'appretissage de Python.
+Actuellement, dans le peu de temps libre que le travail et la famille me laissent, je pratique la guitare électrique, je compose de la musique et je me remets doucement à la programmation avec l'apprentissage de Python.
